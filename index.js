@@ -30,7 +30,7 @@ inquirer.prompt([
     },
     {
         type: 'list',
-        name: 'License',
+        name: 'license',
         message: 'What license did you use (if any)?',
         choices: ['MIT', 'Apache', 'GPL', 'None'],
         validate: (value) => { if (value) {return true} else {return 'Please enter a title for your Project.'}}
