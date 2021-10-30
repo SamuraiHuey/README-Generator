@@ -5,6 +5,9 @@
 ## Description
 This README Generator will allow you to create a professional README just by answering a few questions about the project in the Command Prompt using Inquirer prompts.
 
+## Instructions
+To make a README, enter `node index` into the command line and enter the information about your project in response to the prompts. After entering all information a README.md file will have been created on your local machine.
+
 ## Screenshot:
 ![image](https://user-images.githubusercontent.com/89109404/139510591-fde4cac6-0189-40bf-a39c-bdb402aa2e73.png)
 
