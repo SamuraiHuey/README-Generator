@@ -8,6 +8,8 @@ This README Generator will allow you to create a professional README just by ans
 ## Screenshot:
 ![image](https://user-images.githubusercontent.com/89109404/139510591-fde4cac6-0189-40bf-a39c-bdb402aa2e73.png)
 
+## Walkthrough Video
+
 ### Repo:
 https://github.com/SamuraiHuey/README-Generator.git
 ### Deployed URL:
